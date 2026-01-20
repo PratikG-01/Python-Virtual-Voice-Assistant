@@ -2,8 +2,6 @@
 
 A simple voice assistant made using python. 
 
-It leverages several libraries including pyttsx3 for text-to-speech conversion, speech_recognition for speech-to-text conversion, wikipedia for fetching information, webbrowser for opening websites, and tkinter for creating the graphical user interface (GUI).
-
 ---
 
 ## Features
