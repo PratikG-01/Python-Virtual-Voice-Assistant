@@ -1,4 +1,4 @@
-# Python-Virtual-Voice-Assistant
+## Python Virtual Voice Assistant
 
 ## Introduction
 This project is a simple Voice Assistant application using Python. 
@@ -28,4 +28,5 @@ It leverages several libraries including pyttsx3 for text-to-speech conversion, 
 
 ## Acknowledgments
 Inspired by various open-source voice assistant projects.
+
 Special thanks to the developers of the libraries used in this project.
